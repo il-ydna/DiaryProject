@@ -1,0 +1,9 @@
+#core dependencies
+numpy
+python-dotenv
+
+#llm stuff
+langchain
+openai
+
+#
